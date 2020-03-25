@@ -45,4 +45,17 @@ Once Java is installed, we can install our Minecraft mod pack. The mod pack we'r
 * * If your computer has 8GB of RAM or more, increase Minecraft's RAM to 4GB.
 * Back on the "FTB Modpacks" tab, find "FTB Infinity Evolved" in the list. You can search for it using the "Filter Settings" button.
 * Select "FTB Infinity Evolved", then on the drop-down that says "Recommended", select "3.1.0".
-* Once you have FTB Infinity Evolved selected, and 3.1.0 selected on the version drop-down, click Launch in the lower-right. The first time you do this, it will download Minecraft and the mod pack for you!
+* Once you have FTB Infinity Evolved selected, and 3.1.0 selected on the version drop-down, click Launch in the lower-right. The first time you do this, it will download Minecraft and the mod pack for you before launching the game.
+
+## Launching Minecraft
+
+Modded Minecraft takes a *long* time to launch. It may crash during the first time you launch it - try launching it again, and if it still struggles then reach out to Fneb or MGrey on Discord for help.
+
+Eventually, you'll get to the main menu. Most of the Options are fine, but you may want to turn the music to 0 and turn down the master volume to a low value if you want to use voice chat with others whilst playing or listen to your own music.
+
+Otherwise, click on the Multiplayer button, then click on "Add server". Enter in the following details:
+
+* Server Name: UK Poly Discord MC
+* Server Address: 
+
+Then click Done. Then, connect!
