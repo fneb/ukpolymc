@@ -6,7 +6,7 @@ Minecraft lets you play around with blocks in a virtual world. Modded Minecraft 
 
 You will need:
 
-* A Minecraft account. This can be purchased [here](https://www.minecraft.net/en-us/)
+* A Minecraft account. This can be purchased [here](https://www.minecraft.net/en-us/). Please let MGrey on Discord know your username so you can be whitelisted.
 * A computer. It doesn't matter if it's a Windows PC or a Mac (or a Linux computer). But you do need something with a little bit of power behind it, most notably a reasonable processor and the more RAM the better. Speak to Fneb or MGrey on Discord if you're in doubt here.
 
 Not required, but helpful:
@@ -56,6 +56,6 @@ Eventually, you'll get to the main menu. Most of the Options are fine, but you m
 Otherwise, click on the Multiplayer button, then click on "Add server". Enter in the following details:
 
 * Server Name: UK Poly Discord MC
-* Server Address: 
+* Server Address: Ask in Discord!
 
 Then click Done. Then, connect!
