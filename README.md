@@ -6,7 +6,8 @@ Minecraft lets you play around with blocks in a virtual world. Modded Minecraft 
 
 You will need:
 
-* A Minecraft account. This can be purchased [here](https://www.minecraft.net/en-us/). Please let MGrey on Discord know your username so you can be whitelisted.
+* A Minecraft account. This can be purchased [here](https://www.minecraft.net/en-us/). 
+* Whitelisting on the server - let MGrey know your Minecraft username to be whitelisted. This will allow you to connect.
 * A computer. It doesn't matter if it's a Windows PC or a Mac (or a Linux computer). But you do need something with a little bit of power behind it, most notably a reasonable processor and the more RAM the better. Speak to Fneb or MGrey on Discord if you're in doubt here.
 
 Not required, but helpful:
