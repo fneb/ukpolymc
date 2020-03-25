@@ -28,7 +28,7 @@ First we need to make sure we have Java installed.
 * Then click on "Agree and Start Free Download".
 * Once downloaded, launch the downloaded installer and follow through the instructions.
 
-## Installing our mod pack
+## Installing the mod pack
 
 Once Java is installed, we can install our Minecraft mod pack. The mod pack we're going to be using is called "Feed The Beast Infinity Evolved".
 
