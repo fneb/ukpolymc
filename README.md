@@ -30,7 +30,7 @@ First we need to make sure we have Java installed.
 
 ## Installing the mod pack
 
-Once Java is installed, we can install our Minecraft mod pack. The mod pack we're going to be using is called "Feed The Beast Infinity Evolved".
+Once Java is installed, we can install our Minecraft mod pack, which will install Minecraft along with it. The mod pack we're going to be using is called "Feed The Beast Infinity Evolved".
 
 * Go to the [Feed the Beast website](https://www.feed-the-beast.com/) and download the launcher for your computer.
 * Once downloaded, copy or move the launcher to somewhere you'll be able to access it easily, such as your Desktop or, on a Mac, your Applications folder.
